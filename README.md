@@ -6,7 +6,7 @@
 
 <br/>
 
-![GPA](https://img.shields.io/badge/GPA-8.00%2F10-8B5CF6?style=for-the-badge)
+![GPA](https://img.shields.io/badge/GPA-8.20%2F10-8B5CF6?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Hyderabad,%20India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
